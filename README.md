@@ -1,6 +1,7 @@
 # To-do list con React, Context API y el hook useReducer
 
-_El proyecto es una lista de quehaceres basica_
+_El proyecto es una lista de quehaceres basica. Es muy simple y no habría la necesidad de usar contexto
+ya que éste método se le saca provecho en proyectos de mediana a gran complejidad_
 
 ## Construido con 🛠️
 
