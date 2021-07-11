@@ -2,7 +2,9 @@
 
 _El proyecto es una lista de quehaceres basica_
 
-## Construido con 🛠️* [React](https://reactjs.org) - Framework de JavaScript
+## Construido con 🛠️
+
+* [React](https://reactjs.org) - Framework de JavaScript
 
 # Getting Started with Create React App
 
