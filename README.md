@@ -1,3 +1,9 @@
+# To-do list con React, Context API y el hook useReducer
+
+_El proyecto es una lista de quehaceres basica_
+
+## Construido con 🛠️* [React](https://reactjs.org) - Framework de JavaScript
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
